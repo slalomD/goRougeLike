@@ -1,0 +1,2 @@
+# goRougeLike
+Rougelike in go
